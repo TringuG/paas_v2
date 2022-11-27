@@ -99,10 +99,10 @@ function getSeconds(c) {
 						   <span class="time">{getHour(currentDateTime)}:{getMinute(currentDateTime)}:{getSeconds(currentDateTime)}</span>
 					   </div>
 						 <div>
-							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="#" >Nová služba</a></button>
-							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="#" >Trasy</a></button>
-							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="#" >Správy</a></button>
-							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="#" >Zoznam ľudí</a></button>
+							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="novasluzba" >Nová služba</a></button>
+							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="trasy" >Trasy</a></button>
+							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="spravy" >Správy</a></button>
+							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="zoznam" >Zoznam ľudí</a></button>
 						   </div>  
 					 </div>
 					 <div class=" hidden sm:flex justify-end flex-row lg:pr-7 sm:pr-6 py-6 pr-4 pl-8">
