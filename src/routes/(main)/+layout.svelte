@@ -1,5 +1,5 @@
 <script>
-	import "../app.css";
+	import "./app.css";
 
  import { onMount } from 'svelte';
 
@@ -90,7 +90,7 @@ function getSeconds(c) {
 			 <nav class="">
 				 <div class=" flex flex-row justify-between">
 					 <div class=" flex space-x-3 items-center lg:pl-7 sm:pl-6 py-6 pl-4 pr-8">
-					   <img src="/static/logo.png" class="h-10 w-30" alt="logo">
+					   <img src="./logo.png" class="h-10 w-30" alt="logo">
 					 </div>
  
 					 <div class="lg:flex hidden flex-auto justify-between flex-row px-7 border-l border-r border-gray-200 py-6">
