@@ -3,7 +3,7 @@
     <div class="pt-24">
     <div class="w-full max-w-sm mx-auto overflow-hidden bg-white rounded-lg shadow-md">
         <div class="px-6 py-4">
-            <img src="/static/logo.png" alt="logo">
+            <img src="./logo.png" alt="logo">
 
             <h3 class="mt-1 text-xl font-medium text-center text-gray-600 ">Prihlásenie</h3>
 

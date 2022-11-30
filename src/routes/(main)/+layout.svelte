@@ -90,7 +90,7 @@ function getSeconds(c) {
 			 <nav class="">
 				 <div class=" flex flex-row justify-between">
 					 <div class=" flex space-x-3 items-center lg:pl-7 sm:pl-6 py-6 pl-4 pr-8">
-					   <img src="./logo.png" class="h-10 w-30" alt="logo">
+					   <a href="teamleader"><img src="./logo.png" class="h-10 w-30" alt="logo"></a>
 					 </div>
  
 					 <div class="lg:flex hidden flex-auto justify-between flex-row px-7 border-l border-r border-gray-200 py-6">
@@ -99,6 +99,7 @@ function getSeconds(c) {
 						   <span class="time">{getHour(currentDateTime)}:{getMinute(currentDateTime)}:{getSeconds(currentDateTime)}</span>
 					   </div>
 						 <div>
+							<button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="teamleader" >Domov</a></button>
 							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="novasluzba" >Nová služba</a></button>
 							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="trasy" >Trasy</a></button>
 							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="spravy" >Správy</a></button>
@@ -169,6 +170,6 @@ function getSeconds(c) {
 <!-- SPODOK -->
 
 	 <div class="bg-[#94c356] flex justify-center p-4 overflow-hidden shadow-lg drop-shadow-xl">
-	   <div class=" text-white text-center">RAN Europe s.r.o. © 2020 - 2022</div>
+	   <div class=" text-white text-center">Richard Nálepka © 2022 - 2023</div>
    </div>
 </div> 

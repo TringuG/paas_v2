@@ -31,7 +31,7 @@
 <!-- SPODOK -->
 
      <div class="bg-[#94c356] flex justify-center p-4 overflow-hidden shadow-lg drop-shadow-xl">
-       <div class=" text-white text-center">RAN Europe s.r.o. © 2020 - 2022</div>
+       <div class=" text-white text-center">Richard Nálepka © 2022 - 2023</div>
    </div>
 </div> 
 
