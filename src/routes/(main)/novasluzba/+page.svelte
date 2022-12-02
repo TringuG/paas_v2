@@ -1,4 +1,4 @@
-<title>Nova Sluzba</title>
+<title>Služby</title>
 <body class="bg-[#e6ffe6]">
-    <p>Vytvorenie novej služby.</p>
+    <p>Zoznam služieb.</p>
 </body>

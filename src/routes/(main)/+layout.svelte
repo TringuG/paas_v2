@@ -100,7 +100,7 @@ function getSeconds(c) {
 					   </div>
 						 <div>
 							<button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="teamleader" >Domov</a></button>
-							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="novasluzba" >Nová služba</a></button>
+							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="novasluzba" >Služby</a></button>
 							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="trasy" >Trasy</a></button>
 							 <button class="border-2 border-[#17a2b8] rounded-lg p-2 bg-[#17a2b8] text-white hover:bg-[#1490a3] hover:border-[#1490a3] transition-colors duration-200 transform"><a href="spravy" >Správy</a></button>
 							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="zoznam" >Zoznam ľudí</a></button>

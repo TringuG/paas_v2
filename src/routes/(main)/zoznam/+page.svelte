@@ -26,7 +26,7 @@
                             <th  class="focus:outline-none font-normal text-left pl-10">Zóna</th>
                             <th  class="focus:outline-none font-normal text-left pl-10">Status</th>
                             <th  class="focus:outline-none font-normal text-left pl-10">Pozícia</th>
-                            <th  class="focus:outline-none font-normal text-left pl-10 w-32">Actions</th>
+                            <th  class="focus:outline-none font-normal text-left pl-10 w-32">Akcie</th>
                         </tr>
                     </thead>
                     <tbody class="w-full">
@@ -46,7 +46,7 @@
                             <td  class="focus:outline-none pl-10">Asistent</td>
                             <td class="pl-10">
                                 <div class="flex items-center">
-                                    <button class="focus:ring-2 focus:ring-offset-2 focus:ring-[#16254c] focus:outline-none bg-gray-100 dark:bg-gray-600  mr-5 hover:bg-gray-200 dark:hover:bg-gray-900  py-2.5 px-5 rounded text-sm leading-3 text-gray-600 dark:text-gray-200 ">View</button>
+                                    <button class="focus:ring-2 focus:ring-offset-2 focus:ring-[#16254c] focus:outline-none bg-gray-100 dark:bg-gray-600  mr-5 hover:bg-gray-200 dark:hover:bg-gray-900  py-2.5 px-5 rounded text-sm leading-3 text-gray-600 dark:text-gray-200 ">Zobraziť</button>
                                 </div>
                             </td>
                         </tr>
@@ -66,7 +66,7 @@
                             <td  class="focus:outline-none pl-10">Kontrolór</td>
                             <td class="pl-10">
                                 <div class="flex items-center">
-                                    <button class="focus:ring-2 focus:ring-offset-2 focus:ring-[#16254c] focus:outline-none bg-gray-100 dark:bg-gray-600  mr-5 hover:bg-gray-200 dark:hover:bg-gray-900  py-2.5 px-5 rounded text-sm leading-3 text-gray-600 dark:text-gray-200 ">View</button>
+                                    <button class="focus:ring-2 focus:ring-offset-2 focus:ring-[#16254c] focus:outline-none bg-gray-100 dark:bg-gray-600  mr-5 hover:bg-gray-200 dark:hover:bg-gray-900  py-2.5 px-5 rounded text-sm leading-3 text-gray-600 dark:text-gray-200 ">Zobraziť</button>
                                 </div>
                             </td>
                         </tr>

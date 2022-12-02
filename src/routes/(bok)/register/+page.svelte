@@ -23,7 +23,9 @@
                 </div>
 
                 <div class="flex items-center justify-center mt-4">
-                    <button class="px-4 py-2 leading-5 text-white transition-colors duration-200 transform bg-[#1e274a] rounded hover:bg-[#192b5a] focus:outline-none" type="button">Zaregistrovať</button>
+                    <a href="sucesfull"><button class="focus:ring-2 focus:ring-offset-2 focus:ring-[#2f52ad] inline-flex ml-5 whitespace-nowrap items-start justify-start px-6 py-3 bg-[#16254c] hover:bg-[#264187] focus:outline-none rounded">
+                       <p class="text-xs sm:text-sm font-medium leading-none text-white">Zaregistrovať</p>
+                     </button></a>
                 </div>
             </form>
         </div>
