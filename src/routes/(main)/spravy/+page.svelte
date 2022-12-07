@@ -24,7 +24,7 @@
                             </svg>                        
                     </button>
                     <button onclick="popuphandler(true)" class="focus:ring-2 focus:ring-offset-2 focus:ring-[#2f52ad] inline-flex ml-5 whitespace-nowrap items-start justify-start px-6 py-3 bg-[#16254c] hover:bg-[#264187] focus:outline-none rounded">
-                       <a href="novatrasa"><p class="text-xs sm:text-sm font-medium leading-none text-white">Nová správa</p></a>
+                       <a href="novasprava"><p class="text-xs sm:text-sm font-medium leading-none text-white">Nová správa</p></a>
                     </button>
                 </div>
             </div>

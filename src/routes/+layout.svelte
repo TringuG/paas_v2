@@ -1,5 +1,5 @@
 <script>
-    import "./app.css";
+    import "/workspace/paas_v2/src/app.css";
 </script>
 
 <!-- UPOZORNENIE NA VRCU -->
