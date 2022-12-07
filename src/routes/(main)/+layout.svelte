@@ -87,7 +87,7 @@ function getSeconds(c) {
 							 <button class="border-2 border-[#94c356] rounded-lg p-2 bg-[#94c356] text-white hover:bg-[#80a84a] hover:border-[#80a84a] transition-colors duration-200 transform"><a href="zoznam" >Zoznam ľudí</a></button>
 						   </div>  
 					 </div>
-					 <div class=" hidden sm:flex justify-end flex-row lg:pr-7 sm:pr-6 py-6 pr-4 pl-8">
+					 <div class="justify-end flex-row lg:pr-7 sm:pr-6 py-6 pr-4 pl-8">
 						 <div class=" flex justify-center items-center flex-row">
 							 <div class="ml-2">
 								 <p class="text-lg leading-4 font-semibold text-gray-800 ">Richard Nálepka</p>
@@ -96,7 +96,7 @@ function getSeconds(c) {
 						 </div>
 					 </div>
 
-					 <div id="bgIcon" onclick="toggleMenu()"  class=" focus:outline-none focus:ring focus:ring-offset-2 focus:ring-gray-800 block sm:hidden cursor-pointer lg:pr-7 sm:pr-6 py-6 pr-4">
+					 <div id="bgIcon" onclick="toggleMenu()"  class=" focus:outline-none focus:ring focus:ring-offset-2 focus:ring-gray-800 block lg:hidden cursor-pointer lg:pr-7 sm:pr-6 py-6 pr-4">
 						 <img class="" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/header-4-svg5.svg" alt="burger" />
 						 <img class=" hidden" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/header-4-svg6.svg" alt="cross" />                                                              
 					 </div>
